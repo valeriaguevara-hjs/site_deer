@@ -20,5 +20,12 @@ body{
 }
 
 .flipbook .paginas{
-  background-color: black;
+  background-color: rgb(190, 190, 190);
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  border: none;
+}
+
+.flipbook .paginas small{
+  
 }
